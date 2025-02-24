@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 // SPDX-FileCopyrightText: 2024 LiveKit, Inc.
 //
 // SPDX-License-Identifier: Apache-2.0
